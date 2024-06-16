@@ -1,5 +1,5 @@
 # MyLearningJourney
-A collection of projects and resources documenting my progress in frontend development skills
+A collection of projects and resources documenting my progress in frontend development 
 
 Hello, this is Romeo's repository
 
